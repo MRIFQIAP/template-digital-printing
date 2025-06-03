@@ -1,2 +1,5 @@
 # template-digital-printing
-Sistem ini dirancang untuk membangun layanan pemesanan digital printing berbasis web pada Medina Printing guna mempermudah akses dan meningkatkan efisiensi layanan. Fitur utama meliputi pemesanan online, pembayaran digital, dan upload desain.
+sistem ini bertujuan untuk merancang dan membangun sistem informasi pemesanan digital printing berbasis web  
+pada mitra Medina Printing guna memenuhi kebutuhan layanan percetakan yang lebih mudah diakses dan efisien. 
+Sebelumnya, Medina Printing mengalami kendala dalam menyediakan informasi layanan dan pemesanan yang 
+efektif. Untuk itu, sistem ini dirancang dengan fitur pemesanan online, pembayaran digital, dan fitur upload desain. 
